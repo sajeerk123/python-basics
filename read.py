@@ -10,3 +10,4 @@ for line in fh:
     count = count + 1
 
 print(count,"Lines")
+print ("success")
